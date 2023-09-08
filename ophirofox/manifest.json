@@ -20,7 +20,7 @@
     "webNavigation",
     "https://nouveau-europresse-com.ezproxy.upf.pf/*",
     "https://nouveau-eureka-cc.res.banq.qc.ca/*",
-    "https://nouveau-europresse-com.budistant.univ-nantes.fr/*",
+    "https://cas6.univ-nantes.fr/esup-cas-server/login?service=https%3a%2f%2flogin.budistant.univ-nantes.fr%2flogin%3fqurl%3dezp.2aHR0cDovL25vdXZlYXUuZXVyb3ByZXNzZS5jb20vYWNjZXNzL2lwL2RlZmF1bHQuYXNweD91bj1OQU5URVNUXzE-*",
     "https://nouveau-europresse-com.proxy.rubens.ens.fr/*",
     "https://nouveau-europresse-com.rp1.ensam.eu/*",
     "https://nouveau-europresse-com.ezproxy.universite-paris-saclay.fr/*",
